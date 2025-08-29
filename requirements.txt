@@ -1,0 +1,7 @@
+numpy
+pandas
+requests
+python-binance
+loguru
+pytest
+python-dotenv
